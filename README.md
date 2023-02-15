@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesseigb
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django and React
 - 📫 How to reach me 'jesse.igbokwe@hotmail.com'
 
 <!---
